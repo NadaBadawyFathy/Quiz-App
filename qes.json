@@ -1,0 +1,83 @@
+[
+    {
+        "ques":"1) You could use Java Script in ....",
+        "ans1":"Web",
+        "ans2":"Mobile apps",
+        "ans3":"Desktop apps",
+        "ans4":"All of the above",
+        "answer":"All of the above"
+
+    },
+    {
+        "ques":"2) The .... event occurs when the user is pressing a key (on the keyboard) ",
+        "ans1":"Onkeypress",
+        "ans2":"Onkeydown",
+        "ans3":"Onkeyup",
+        "ans4":"None of the above",
+        "answer":"Onkeydown"
+    },
+    {
+        "ques":"3) The ..... event occurs when the user clicks on an element",
+        "ans1":"Onmousemove",
+        "ans2":"Ondbclick",
+        "ans3":"Onclick",
+        "ans4":"None of the above",
+        "answer":"Onclick"
+    },
+    {
+        "ques":"4) The .... event occurs when an object loses focus",
+        "ans1":"Ondbclick",
+        "ans2":"Onblur",
+        "ans3":"Onmousemove",
+        "ans4":"None of the above",
+        "answer":"Onblur"
+    },
+    {
+        "ques":"5) The .... event occurs when the user copies the content of an element",
+        "ans1":"Onmousemove",
+        "ans2":"Onfocus",
+        "ans3":"Oncopy",
+        "ans4":"None of the above",
+        "answer":"Oncopy"
+    },
+    {
+        "ques":"6) The ..... event occurs when an element gets focus",
+        "ans1":"Onclick",
+        "ans2":"Ondbclick",
+        "ans3":"Onfocus",
+        "ans4":"Oone of the above",
+        "answer":"Onfocus"
+    },
+    {
+        "ques":"7) The .... event occurs when a form is reset",
+        "ans1":"Onreset",
+        "ans2":"Onclick",
+        "ans3":"Onfocus",
+        "ans4":"None of the above",
+        "answer":"Onreset"
+    },
+    {
+        "ques":"8) The ..... event occurs when a form is submitted",
+        "ans1":"Onfocus",
+        "ans2":"Onreset",
+        "ans3":"Onsubmit",
+        "ans4":"None of the above",
+        "answer":"Onsubmit"
+    },
+    {
+        "ques":"9) The .... event occurs after some text has been selected in an element",
+        "ans1":"Onclick",
+        "ans2":"Onselect",
+        "ans3":"Onfocus",
+        "ans4":"None of the above",
+        "answer":"Onselect"
+    },
+    {
+        "ques":"10) The .... event occurs when the mouse pointer is moved out of an element",
+        "ans1":"Onclick",
+        "ans2":"Onselect",
+        "ans3":"Onmouseleave",
+        "ans4":"None of the above",
+        "answer":"Onmouseleave"
+    }
+]
